@@ -58,11 +58,11 @@ and data.
 
 ## Screen shots
 <p align="center">
-  <img src="https://thumbs2.imgbox.com/1c/37/lY1xZfwb_t.png">
-  <img src="https://thumbs2.imgbox.com/81/c9/4ANqBUrF_t.png">
-  <img src="https://thumbs2.imgbox.com/b9/51/Mw9bKKs3_t.png">
-  <img src="https://thumbs2.imgbox.com/5b/73/L870IPlt_t.png">
-  <img src="https://thumbs2.imgbox.com/2b/3b/m2X7OGly_t.png">
+  <img src=https://i.imgur.com/b7JXSMT.png>
+  <img src=https://i.imgur.com/Cr1GOFk.png>
+  <img src=https://i.imgur.com/Yvj9Fd2.png>
+  <img src=https://i.imgur.com/0nbzSuC.png>
+  <img src=https://i.imgur.com/9ccbypl.png>
 </p>
 ## License
 
