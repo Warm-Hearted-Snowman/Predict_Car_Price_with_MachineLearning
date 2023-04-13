@@ -57,6 +57,8 @@ If the user selects Initialize Program mode, the program will initialize the MyS
 and data.
 
 ## Screen shots
+
+
 <p align="center">
   <img src=https://i.imgur.com/b7JXSMT.png>
   <img src=https://i.imgur.com/Cr1GOFk.png>
@@ -64,6 +66,8 @@ and data.
   <img src=https://i.imgur.com/0nbzSuC.png>
   <img src=https://i.imgur.com/9ccbypl.png>
 </p>
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
